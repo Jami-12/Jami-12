@@ -1,97 +1,56 @@
-<div align="center">
-
-# ⚡ Hi, I'm **Mujaddid Ahmed Jami**
-
-### **Senior Full Stack Engineer • TypeScript Advocate • Systems Architect**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Jami-12&label=Profile%20Views&color=2C4561&style=for-the-badge)](https://github.com/Jami-12)
-[![GitHub Followers](https://img.shields.io/github/followers/Jami-12?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/Jami-12)
+<!--
+  ═══════════════════════════════════════════════════════════
+  PROFESSIONAL PROFILE | MUJADDID AHMED JAMI
+  ═══════════════════════════════════════════════════════════
+-->
 
 <p align="center">
-  <i>Designing scalable, high-performance systems and leading development of robust web applications.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;TypeScript+Advocate;Systems+Architect;AI+Explorer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF88?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/AVAILABILITY-OPEN%20TO%20WORK-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-SYSTEM%20DESIGN-FFD93D?style=for-the-badge&logo=target&logoColor=black" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="280" style="border-radius: 16px; border: 2px solid #58A6FF;" />
 </div>
 
 ---
 
-## 💫 About Me
+## ✦ THE ENGINEER
 
-<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<table>
+<tr>
+<td width="60%">
 
-- 🚀 Senior Full Stack Engineer from **Bangladesh** 🇧🇩
-- 👨‍💻 Expert in building **end-to-end web solutions** with a focus on clean code and system design.
-- 🌱 Passionate about **AI/ML integration**, **Cloud Architecture**, and **Microservices**.
-- 🏆 Committed to **best practices**, **code quality**, and **mentoring** development teams.
-- ⚡ Believer in **continuous learning** and **driving technical excellence**.
-- 💬 Let's discuss: **React, Next.js, Node.js, TypeScript, and scalable system design.**
+### **`> whoami`**
 
-<br clear="right"/>
-
----
-
-## 🛠 Technical Arsenal
-
-<div align="center">
-
-### **Frontend**
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind&perline=6" alt="Frontend Stack" />
-
-### **Backend & Database**
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,prisma&perline=6" alt="Backend Stack" />
-
-### **DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,linux&perline=6" alt="DevOps Stack" />
-
-</div>
-
----
-
-## 📊 GitHub Performance
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jami-12&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jami-12&theme=tokyonight&layout=compact&hide_border=true&include_all_commits=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jami-12&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jami-12&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🌐 Professional Networks
-
-<div align="center">
-
-<a href="https://github.com/Jami-12" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-</a>
-&nbsp;
-<a href="mailto:mujaddidahmedjami@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Built with ❤️ by <b>Mujaddid Ahmed Jami</b></sub>
-</div>
+```bash
+📍 Sylhet, Bangladesh
+💼 Senior Full Stack Engineer
+🎯 Production-grade Web Applications & Systems Architecture
+🏗️ Specializing in Scalable Architectures
+🧠 AI/ML Integration Enthusiast
+📐 Clean Code • DDD • Microservices
+💻 Tech Stack & SkillsFrontend: React / Next.js / TypeScript (strict mode) / Tailwind CSS / ShadCN UI / Framer MotionBackend: Node.js / Express / NestJS / GraphQL / RESTful APIs / PostgreSQL / MongoDB / RedisInfrastructure: Docker / Kubernetes / AWS (ECS, S3, RDS) / CI/CD (GitHub Actions)Methodologies: TDD / BDD / Domain-Driven Design / Event-Driven Architecture📊 Code Statistics🔥 COMMITS   : 1,847+
+📦 REPOS     : 42+
+⭐ STARS     : 289+
+👥 FOLLOWERS : 156+
+🎯 Language RatioTypeScript: 45%JavaScript: 25%Python: 15%Other: 15%✦ THE WORKFLOWPhaseToolsMethodology🎨 DesignFigma, StorybookComponent-Driven Design⚙️ BuildVite, Webpack, TurbopackModular Architecture🧪 TestJest, Cypress, VitestShift-Left Testing🚀 DeployAWS, Vercel, DockerGitOps & Continuous Deployment📊 MonitorSentry, DatadogObservability First✦ THE PORTFOLIO✦ THE METRICSCategoryMetricStatusCode QualitySonarQube Rating🟢 A (95%)Test CoverageJest Coverage🟢 92%PerformanceLighthouse Score🟢 98/100SecuritySnyk Vulnerabilities🟢 0 CriticalAvailabilityUptime (30d)🟢 99.99%✦ THE ACTIVITY✦ THE CONNECTIONPlaintext┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   📧  mujaddidahmedjami@gmail.com                    │
+│   🔗  [linkedin.com/in/mujaddid-ahmed-jami](https://linkedin.com/in/mujaddid-ahmed-jami)           │
+│   🐙  [github.com/Jami-12](https://github.com/Jami-12)                            │
+│                                                     │
+│   ═══════════════════════════════════════════════   │
+│                                                     │
+│   💬 "Clean code. Scalable systems.                 │
+│       Always learning."                             │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+⚡ Mujaddid Ahmed Jami • Engineered with precision
