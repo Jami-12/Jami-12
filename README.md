@@ -1,39 +1,90 @@
-# 👋 Mujaddid Ahmed Jami
+<div align="center">
 
-```{=html}
+# ⚡ Hi 👋, I'm **Mujaddid Ahmed Jami**
+
+### **Full Stack Engineer • TypeScript Enthusiast • AI Explorer**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Jami-12&label=Profile%20Views&color=2C4561&style=for-the-badge)](https://github.com/Jami-12)
+[![GitHub Followers](https://img.shields.io/github/followers/Jami-12?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/Jami-12)
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;TypeScript+Learner;Always+Learning+New+Things" />`{=html}
-```{=html}
+  <i>Building scalable web applications, modern APIs, and production-ready systems with clean architecture.</i>
 </p>
-```
-## 🚀 About Me
 
--   💻 Frontend Developer from Bangladesh
--   ⚛️ React, Next.js, TypeScript
--   🎨 Tailwind CSS, Framer Motion
--   🌱 Learning Node.js & Full Stack Development
--   📫 Email: mujaddidahmedjami2025@gmail.com
+</div>
+
+---
+
+## 💫 About Me
+
+<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 🚀 Full Stack Engineer from **Bangladesh** 🇧🇩
+- 💻 Passionate about building robust, scalable web applications
+- 🌱 Currently learning **System Design, Cloud & Advanced Microservices**
+- 🤖 Exploring **AI-powered Applications & Smart Automation**
+- ⚡ **Clean Code • High Performance • Industry Best Practices**
+- 💬 Ask me about: **React, Next.js, Node.js & TypeScript**
+
+<br clear="right"/>
+
+---
 
 ## 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<div align="center">
 
-## 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,docker,git,github,githubactions,vscode,postman&perline=9" alt="Tech Stack" />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Jami-12&show_icons=true&theme=github_dark)
-![Streak](https://streak-stats.demolab.com?user=Jami-12&theme=github-dark-blue)
-![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jami-12&layout=compact&theme=github_dark)
+</div>
 
-## 🌐 Connect
+---
 
--   GitHub: https://github.com/Jami-12
--   Portfolio: https://mujaddid-jami-portfolio.vercel.app/
+## 📊 GitHub Statistics
 
-------------------------------------------------------------------------
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jami-12&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jami-12&theme=tokyonight&layout=compact&hide_border=true&include_all_commits=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jami-12&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Activity & Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jami-12&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Jami-12" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+</a>
+&nbsp;
+<a href="mailto:your.email@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Designed with ❤️ by <b>Mujaddid Ahmed Jami</b></sub>
+</div>
