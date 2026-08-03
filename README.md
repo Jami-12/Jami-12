@@ -1,14 +1,14 @@
 <div align="center">
 
-# ⚡ Hi 👋, I'm **Mujaddid Ahmed Jami**
+# ⚡ Hi, I'm **Mujaddid Ahmed Jami**
 
-### **Full Stack Engineer • TypeScript Enthusiast • AI Explorer**
+### **Senior Full Stack Engineer • TypeScript Advocate • Systems Architect**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Jami-12&label=Profile%20Views&color=2C4561&style=for-the-badge)](https://github.com/Jami-12)
 [![GitHub Followers](https://img.shields.io/github/followers/Jami-12?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/Jami-12)
 
 <p align="center">
-  <i>Building scalable web applications, modern APIs, and production-ready systems with clean architecture.</i>
+  <i>Designing scalable, high-performance systems and leading development of robust web applications.</i>
 </p>
 
 </div>
@@ -19,28 +19,35 @@
 
 <img align="right" alt="coding" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- 🚀 Full Stack Engineer from **Bangladesh** 🇧🇩
-- 💻 Passionate about building robust, scalable web applications
-- 🌱 Currently learning **System Design, Cloud & Advanced Microservices**
-- 🤖 Exploring **AI-powered Applications & Smart Automation**
-- ⚡ **Clean Code • High Performance • Industry Best Practices**
-- 💬 Ask me about: **React, Next.js, Node.js & TypeScript**
+- 🚀 Senior Full Stack Engineer from **Bangladesh** 🇧🇩
+- 👨‍💻 Expert in building **end-to-end web solutions** with a focus on clean code and system design.
+- 🌱 Passionate about **AI/ML integration**, **Cloud Architecture**, and **Microservices**.
+- 🏆 Committed to **best practices**, **code quality**, and **mentoring** development teams.
+- ⚡ Believer in **continuous learning** and **driving technical excellence**.
+- 💬 Let's discuss: **React, Next.js, Node.js, TypeScript, and scalable system design.**
 
 <br clear="right"/>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,docker,git,github,githubactions,vscode,postman&perline=9" alt="Tech Stack" />
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind&perline=6" alt="Frontend Stack" />
+
+### **Backend & Database**
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,prisma&perline=6" alt="Backend Stack" />
+
+### **DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,linux&perline=6" alt="DevOps Stack" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Performance
 
 <div align="center">
 
@@ -55,7 +62,7 @@
 
 ---
 
-## 📈 Activity & Contributions
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -65,7 +72,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Professional Networks
 
 <div align="center">
 
@@ -73,7 +80,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
 </a>
 &nbsp;
-<a href="mailto:your.email@gmail.com" target="_blank">
+<a href="mailto:mujaddidahmedjami@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
 </a>
 &nbsp;
@@ -86,5 +93,5 @@
 <br/>
 
 <div align="center">
-  <sub>Designed with ❤️ by <b>Mujaddid Ahmed Jami</b></sub>
+  <sub>Built with ❤️ by <b>Mujaddid Ahmed Jami</b></sub>
 </div>
